@@ -59,8 +59,8 @@ SUBSCRIBE:
 
 
 SCHEDULE:
-![image](https://github.com/LeonardoEMicale/PF-HealthPlus/assets/124411705/7c790cb2-dc6c-4abb-9088-926bdeddb986)
-![image](https://github.com/LeonardoEMicale/PF-HealthPlus/assets/124411705/8d634062-e1ea-417b-a3a3-7d28d9e21136)
+![image](https://github.com/LeonardoEMicale/PF-HealthPlus/assets/124411705/9c0f685e-cb04-4281-b364-f7042c90a4e1)
+
 
 
 
