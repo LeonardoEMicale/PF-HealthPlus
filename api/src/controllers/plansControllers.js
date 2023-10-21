@@ -1,7 +1,7 @@
 const mercadopago = require('mercadopago');
 
 mercadopago.configure({
-    access_token: 'TEST-8033250124943304-100419-9f5940470a6ee188e569925fef444342-1500823282'
+    access_token: '***********************************'
 })
 
 const plansController = (req, res) => {
