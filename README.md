@@ -1,6 +1,7 @@
 # React + Vite
 
-Link del producto deployado: https://health-plus-henry.netlify.app/
+Link del proyecto deployado: https://health-plus-henry.netlify.app/
+Link recorrido del sitio: https://www.youtube.com/watch?v=MXvyATbCJQs
 
 Funcionamiento de HealthPlus
 HealthPlus es una Clínica Virtual que brinda a los usuarios una plataforma completa para gestionar sus necesidades de atención médica de manera conveniente y eficiente. A continuación, se detallan algunas de las características clave y el funcionamiento de la plataforma:
